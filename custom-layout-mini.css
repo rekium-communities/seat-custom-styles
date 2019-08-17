@@ -1,0 +1,24 @@
+.login-logo  {
+    color: #eca943;
+    padding-top: 220px;
+    background-image: url('https://storage.googleapis.com/rekium_public/static_images/seat/rekium_main_vector.png');
+    background-repeat: no-repeat;
+    background-position: center top;}
+
+.login-box-body, .register-box-body {
+    background-color: #eca943; // #eca943;
+    color: #000;
+
+
+    }
+
+body {
+    background-color: #000; // #eca943;
+    }
+
+
+login-box {
+    background-color: #eca943; // #eca943;
+    }
+
+hr { background-color: #eca943;; height: 0px; border: 0px;  }
